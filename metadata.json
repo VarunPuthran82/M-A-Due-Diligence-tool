@@ -1,0 +1,5 @@
+{
+  "name": "M&A Long-Context Due Diligence Engine",
+  "description": "A powerful analytical tool designed for M&A professionals to compare massive financial and legal filings using Gemini's million-token context window. Upload multiple 10-Ks or legal documents to extract cross-document insights without RAG fragmentation.",
+  "requestFramePermissions": []
+}
