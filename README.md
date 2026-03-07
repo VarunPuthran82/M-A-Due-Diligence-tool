@@ -1,7 +1,5 @@
 # M&A Intelligence Audit Engine
 
-![App Preview](https://via.placeholder.com/1200x600.png?text=M%26A+Due+Diligence+Engine)
-
 The **M&A Due Diligence Engine** is an advanced, client-side web application designed for financial analysts, auditors, and executives. Its primary use case is to parse, analyze, and compare large corporate filings (such as 10-Ks, 10-Qs, and Annual Reports in PDF/HTML format) during Mergers & Acquisitions (M&A) due diligence.
 
 Unlike traditional Retrieval-Augmented Generation (RAG) systems that slice documents into small chunks—which can lose broader context—this application leverages the massive context window of the **Gemini 3 Pro** model. It processes entire documents natively to deliver comprehensive, cross-document reasoning, identifying subtle language shifts, strategic contradictions, and overlapping risks between entities.
